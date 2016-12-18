@@ -9,6 +9,7 @@ import java.util.function.Supplier;
 public class Sample {
 
     public static void main(String[] args) {
+        // sample
         supplier();
         booleanSupplier();
         intSupplier();
